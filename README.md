@@ -15,4 +15,4 @@ Hello I'm Karan 😊👋, a dedicated learner in machine learning and web develo
 - GitHub:https://github.com/Karan4789
 
 ## Let's Connect!
-Open to discussions and collaborations. Let’s share ideas and learn and grind !
+Open to discussions and collaborations. Let’s share ideas ,learn and grind !
