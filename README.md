@@ -7,7 +7,7 @@ Hello I'm Karan 😊👋, a dedicated learner in machine learning and web develo
 - **Languages**: Python, JavaScript,C
 - **Frameworks**: React, Node.js
 - **Databases**: MongoDB
-- **Other Skills**: GitHub, Jupyter, Public speaking
+- **Other Skills**: GitHub, Jupyter
 
 ## Contact
 - Email: karan2301.m@gmail.com
