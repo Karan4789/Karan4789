@@ -236,7 +236,7 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Karan4789/Karan4789/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Karan4789/Karan4789/9b03a4ef91be6288270d73ec48b8e905976f79de/snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
 ---
