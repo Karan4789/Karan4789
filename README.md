@@ -128,10 +128,10 @@ me.say_hi()
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| **Disaster Tweet Classifier** | ML-powered tweet classification system for real-time disaster detection | Python, TensorFlow, NLP, REST API | [View →](https://github.com/Karan4789/Disaster_Tweet_Classifier) |
-| **Cloud Nimbus** | Scalable cloud-based solution with modern architecture | JavaScript, Node.js, AWS, Docker | [View →](https://github.com/Karan4789/Cloud-Nimbus) |
+| **Disaster Tweet Classifier** | ML-powered tweet classification system for disaster detection | Python, TensorFlow, NLP, REST API | [View →](https://github.com/Karan4789/Disaster_Tweet_Classifier) |
+| **Cloud Nimbus** | Online Code Editor | JavaScript, Node.js, AWS, Docker | [View →](https://github.com/Karan4789/Cloud-Nimbus) |
 | **SkillSync** | Professional networking platform for skill-sharing | TypeScript, React, MongoDB, GraphQL | [View →](https://github.com/Karan4789/SkillSync) |
-| **Shinjuku Showdown** | Interactive game with complex algorithms | Python, PyGame, AI Algorithms | [View →](https://github.com/Karan4789/Shinjuku-Showdown) |
+| **Shinjuku Showdown** | A fun little game based on Gojo vs Sukuna - JJK Manga | Python, PyGame | [View →](https://github.com/Karan4789/Shinjuku-Showdown) |
 
 ---
 
@@ -172,7 +172,6 @@ me.say_hi()
 
 ### 📜 Certifications
 - 🏅 PRESIDIO LAUNCHPAD WORKSHOP - Presidio
-- 🏅 Google Cloud Professional Data Engineer *(If applicable)*
 - 🏅 Introduction to LLM - NPTEL-IIT Madras
 
 ---
@@ -186,7 +185,7 @@ me.say_hi()
       <ul align="left">
         <li>🚀 Master Scalable Backend Development</li>
         <li>🚀 Build Innovative Projects</li>
-        <li>☁️ Build in cloud-native applications</li>
+        <li>☁️ Build in cloud applications</li>
         <li>🎯 Build a production-ready application</li>
       </ul>
     </td>
