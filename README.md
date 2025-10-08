@@ -124,17 +124,6 @@ me.say_hi()
 
 <br/>
 
-### 🎯 Project Highlights
-
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **Disaster Tweet Classifier** | ML-powered tweet classification system for disaster detection | Python, TensorFlow, NLP, REST API | [View →](https://github.com/Karan4789/Disaster_Tweet_Classifier) |
-| **Cloud Nimbus** | Online Code Editor | JavaScript, Node.js, AWS, Docker | [View →](https://github.com/Karan4789/Cloud-Nimbus) |
-| **SkillSync** | Professional networking platform for skill-sharing | TypeScript, React, MongoDB, GraphQL | [View →](https://github.com/Karan4789/SkillSync) |
-| **Shinjuku Showdown** | A fun little game based on Gojo vs Sukuna - JJK Manga | Python, PyGame | [View →](https://github.com/Karan4789/Shinjuku-Showdown) |
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -168,7 +157,7 @@ me.say_hi()
 
 ### 🌟 Highlights
 - 🏆 Participated in **5+ hackathons** with notable achievements
-- 🎯 **89+ problems** solved on LeetCode/HackerRank
+- 🎯 **80+ problems** solved on LeetCode
 
 ### 📜 Certifications
 - 🏅 PRESIDIO LAUNCHPAD WORKSHOP - Presidio
