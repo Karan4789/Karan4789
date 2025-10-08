@@ -105,23 +105,6 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Karan4789/Disaster_Tweet_Classifier">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Karan4789&repo=Disaster_Tweet_Classifier&theme=radical" />
-  </a>
-  <a href="https://github.com/Karan4789/Cloud-Nimbus">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Karan4789&repo=Cloud-Nimbus&theme=radical" />
-  </a>
-  <a href="https://github.com/Karan4789/SkillSync">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Karan4789&repo=SkillSync&theme=radical" />
-  </a>
-  <a href="https://github.com/Karan4789/Shinjuku-Showdown">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Karan4789&repo=Shinjuku-Showdown&theme=radical" />
-  </a>
-</div>
-
 <br/>
 
 ## 📊 GitHub Analytics
