@@ -3,7 +3,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Applied+Engineer;Backend+Engineer;Machine+Learning;Open+Source" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
   <a href="https://github.com/Karan4789"><img src="https://img.shields.io/github/followers/Karan4789?label=GitHub&style=for-the-badge&logo=github&logoColor=white&color=0891b2&labelColor=1c1917" alt="GitHub followers" /></a>
   <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:karan2301.m@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <!-- Profile views counter -->
@@ -30,9 +30,9 @@
 class Developer:
     def __init__(self):
         self.name = "Karunakaran M"
-        self.role = "AI & Software Engineer"
+        self.role = "Applied AI Engineer"
         self.language_spoken = ["en_US", "tn_IN"]
-        self.current_focus = "Building innovative scalable solutions"
+        self.current_focus = "Building and Learning 🙂"
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
@@ -69,7 +69,6 @@ me.say_hi()
 
 ### 🌐 Frontend Development
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -78,7 +77,6 @@ me.say_hi()
 ### ⚙️ Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-00BFFF?style=for-the-badge&logo=postman&logoColor=white" />
@@ -91,6 +89,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-00BFB3?style=for-the-badge&logo=pinecone&logoColor=white" />
 </p>
 
 ### 🔧 Tools & Technologies
@@ -139,12 +138,14 @@ me.say_hi()
 - 🏅 Relevant Coursework: Data Structures, Algorithms, AI/ML, Cloud Computing
 
 ### 🌟 Highlights
-- 🏆 Participated in **5+ hackathons** with notable achievements
+- 🏆 Participated in **3 hackathons** with notable achievements
 - 🎯 **80+ problems** solved on LeetCode
 
 ### 📜 Certifications
 - 🏅 PRESIDIO LAUNCHPAD WORKSHOP - Presidio
+- 🏅 Fundamentals of Machine Learning and Deep Learning
 - 🏅 Introduction to LLM - NPTEL-IIT Madras
+- 🏅 CCNA - Introduction to Networks
 
 ---
 
@@ -155,9 +156,8 @@ me.say_hi()
     <td align="center" width="50%">
       <h3>🎯 2025 Goals</h3>
       <ul align="left">
-        <li>🚀 Master Scalable Backend Development</li>
+        <li>🚀 Learning Scalable Backend Development</li>
         <li>🚀 Build Innovative Projects</li>
-        <li>☁️ Build in cloud applications</li>
         <li>🎯 Build a production-ready application</li>
       </ul>
     </td>
@@ -166,7 +166,7 @@ me.say_hi()
       <ul align="left">
         <li>🧠 Transformer architectures & LLMs</li>
         <li>🎨 System design & DSA</li>
-        <li>📊 AI Agents Frameworks ( MCP , RAG )</li>
+        <li>📊 AI Agents Frameworks ( MCP , RAG , Agents )</li>
         <li>🔐 Backend Development </li>
       </ul>
     </td>
@@ -190,7 +190,6 @@ me.say_hi()
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karunakaran-m-7968142a1/)
   [![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karan2301.m@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Check_Out-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
   
 </div>
 
